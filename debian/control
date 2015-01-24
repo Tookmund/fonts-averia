@@ -10,6 +10,8 @@ Homepage: http://iotic.com/averia/
 
 Package: fonts-averia
 Architecture: all
+Multi-Arch: foreign
 Depends: ${misc:Depends}
 Description: Averia TrueType Font
- The Averia font by Dan Sayers
+ The Averia font. It is designed to be an "average" font, designed by averaging all the 
+ fonts the author could find.
