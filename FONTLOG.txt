@@ -1,11 +1,11 @@
 FONTLOG
-Avería font family
+Avería Sans font family
 ========================
 
 
-This file provides detailed information on the Avería family of fonts. This
-information should be distributed along with the Avería fonts and any
-derivative works.
+This file provides detailed information on the Avería Sans family of fonts.
+This information should be distributed along with the Avería Sans fonts and
+any derivative works.
 
 
 Basic Font Information
@@ -32,20 +32,16 @@ U+0370-U+03D5   Greek
 U+2000-U+2122   General Punctuation
 U+2200-U+25CS   Mathematical Operators
 
-Avería exists in Regular, Bold, Italic, Bold Italic, Light and Light Italic
-styles - as well as a "Gruesa" semi-italic variant made from an average of
-all 725 source fonts.
+Avería Sans exists in Regular, Bold, Italic, Bold Italic, Light and Light
+Italic styles - based on the sans-serif subset of the 725 fonts on the
+creator's computer.
 
 
 ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
-02 Nov 2011 (Dan Sayers)  Avería version 1.01
-- Fixed bug in generating quotedblbase perimeters
-- Slightly changed kerning
-
-29 Oct 2011 (Dan Sayers)  Avería version 1.00
+2 Nov 2011 (Dan Sayers)  Avería Sans version 1.00
 - First public release
 - No hinting is included in this version.
 
