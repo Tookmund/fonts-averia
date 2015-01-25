@@ -13,5 +13,6 @@ Architecture: all
 Multi-Arch: foreign
 Depends: ${misc:Depends}
 Description: Averia TrueType Font
- The Averia font. It is designed to be an "average" font, designed by averaging all the 
- fonts the author could find.
+ The Averia font. 
+ It is designed to be an "average" font, designed by averaging all the fonts 
+ the author could find. 
