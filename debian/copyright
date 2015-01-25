@@ -5,7 +5,9 @@ Source: http://iotic.com/averia/
 Files: *
 Copyright: 2011 Dan Sayers <i@iotic.com>
 License: OFL
-
+ The text of the OFL can be found at "/usr/share/fonts-averia/OFL.txt" if fonts-averia is 
+ installed
+  
 Files: debian/*
 Copyright: 2015 Jacob Adams <tookmund@gmail.com>
 License: GPL-2+
