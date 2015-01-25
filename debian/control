@@ -1,4 +1,4 @@
-Source: fonts-averia
+Source: fonts-averia-sans
 Section: fonts
 Priority: optional
 Maintainer: Jacob Adams <tookmund@gmail.com>
@@ -8,7 +8,7 @@ Homepage: http://iotic.com/averia/
 #Vcs-Git: git://anonscm.debian.org/collab-maint/fonts-averia.git
 #Vcs-Browser: http://anonscm.debian.org/?p=collab-maint/fonts-averia.git;a=summary
 
-Package: fonts-averia
+Package: fonts-averia-sans
 Architecture: all
 Multi-Arch: foreign
 Depends: ${misc:Depends}
@@ -16,3 +16,4 @@ Description: Averia TrueType Font
  The Averia font. 
  It is designed to be an "average" font, designed by averaging all the fonts 
  the author could find. 
+ This is the Sans-Serif version.
